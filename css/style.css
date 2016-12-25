@@ -1,0 +1,117 @@
+
+ .header {
+  position: relative;
+  
+  min-height: auto;
+  background-size: cover;  
+  background-position: center;
+  background-image: url('./images/header.jpg');
+  text-align: center;
+  color: white;
+  padding: 170px;
+ 
+  
+  
+}
+.header-content h1 {
+	font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 100px;
+
+}
+
+.header-content p{
+	font-weight: 300;
+ 	color: rgba(255, 255, 255, 0.7);
+ 	font-size: 20px;
+    margin-bottom: 50px;
+    line-height: 1.5;
+}
+.item img{
+	width:100%;
+}
+hr{
+	border-color: #F05F40;
+    border-width: 3px;
+    max-width: 50px;
+}
+.btn{
+	padding: 15px 30px;
+	border: none;
+    border-radius: 300px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #F05F40;
+    transition: all .20s;
+
+
+}
+.btn a{
+	text-decoration: none;
+}
+#gioithieu{
+	background-color: #F05F40;
+	color: pink;
+	text-align: center;
+	padding: 100px 0;
+}
+hr.one{
+	border-color: #fff;
+}
+p{
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+.btn-xl{
+	padding: 15px 30px;
+	color: #222;
+    background-color: #fff;
+}
+.text-1{
+	margin-top: 80px;
+
+}
+h2{
+	font-size: 30px;
+
+}
+.glyphicon{
+	color: #F05F40;
+	font-size: 4em;
+	text-rendering: auto;
+}
+#hinhanh{
+  padding-top: 40px;
+  padding: -15px;
+}
+.img{
+  vertical-align: middle;
+  border: 0;
+}
+
+.text-2{
+	padding-top: 70px;
+}
+.text-center p{
+	color: black;
+	font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    margin: 0 0 10px;
+}
+
+.pull-left{
+  padding-left: 200px;
+}
+.pull-right{
+  padding-right: 200px;
+}
+a{
+  transition: all .35s;
+    color: #F05F40;
+}
